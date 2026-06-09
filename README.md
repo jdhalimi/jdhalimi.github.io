@@ -1,17 +1,24 @@
 # jdhalimi.github.io
 
-This repository is a landing pages for personal projects
+Personal website and project landing page for Jean-David Halimi.
 
-- Published on [GitHub Pages](https://jdhalimi.github.io/)
+The site is published with [GitHub Pages](https://jdhalimi.github.io/) and highlights:
+
+- a short bio and contact links
+- selected open-source projects
+- links to GitHub, LinkedIn, and email
+
+## Local Editing
+
+This is a static site, so you can edit [index.html](index.html) directly and refresh the page in your browser.
 
 ## Contributing
 
-- you are welcome for suggestions using github issues
-- you can provide correction with PR
+Suggestions and corrections are welcome through GitHub issues or pull requests.
 
-Thanks you
+## License
 
-Jeab-David
+No license has been specified yet.
 
 
 
